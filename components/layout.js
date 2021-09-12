@@ -8,6 +8,7 @@ function layout(props) {
         <div>{props.children}</div>
       </main>
       <Footer />
+      Hello World
     </div>
   );
 }

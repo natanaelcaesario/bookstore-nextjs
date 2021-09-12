@@ -7,6 +7,7 @@ function layout(props) {
       <main>
         <div>{props.children}</div>
       </main>
+      adsasdasdasd
       <Footer />
     </div>
   );
